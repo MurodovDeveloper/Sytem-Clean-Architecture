@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using src.Data;
 using src.Models;
 using src.Services;
+using System;
 
 namespace src
 {
@@ -28,7 +25,7 @@ namespace src
         {
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            
+
 
             services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
@@ -118,7 +115,7 @@ namespace src
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller="+MVC.Pages.ConfigIndex.Controller+"}/{action="+MVC.Pages.ConfigIndex.Action+"}/{id?}");
+                    template: "{controller=" + MVC.Pages.ConfigIndex.Controller + "}/{action=" + MVC.Pages.ConfigIndex.Action + "}/{id?}");
             });
         }
     }
