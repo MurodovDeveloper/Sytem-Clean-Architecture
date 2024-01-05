@@ -1,0 +1,17 @@
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\src.deps.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\src.runtimeconfig.dev.json
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\src.dll
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\bin\Debug\netcoreapp2.0\src.pdb
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.csproj.AssemblyReference.cache
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.AssemblyInfoInputs.cache
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.AssemblyInfo.cs
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.dll
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.pdb
+C:\Users\murod\OneDrive\Desktop\NewProjectSytem\DotnetDesk\src\src\obj\Debug\netcoreapp2.0\src.genruntimeconfig.cache
